@@ -1,0 +1,7 @@
+{
+  "name": "@gatsby003/hutch-multirepo-85737-provider",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./src/coupons.js",
+  "repository": "https://github.com/gatsby003/hutch-multirepo-85737-provider"
+}

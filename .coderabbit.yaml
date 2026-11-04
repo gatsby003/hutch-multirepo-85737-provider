@@ -1,0 +1,5 @@
+language: en-US
+reviews:
+  profile: assertive
+knowledge_base:
+  automatic_linking_mode: auto
