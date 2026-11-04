@@ -13,6 +13,10 @@ division by 10,000, round down, then cap the discount at `maxDiscountMinor`.
 For a cart of 40,000 minor units the discount is 2,500 and the total is 37,500.
 Contract marker: HUTCH85737-COUPON-BPS-CAP.
 
+The Python package exposes the same WELCOME contract as `coupon_for`, using
+the fields `discount_bps` and `max_discount_minor`. The consumer declares its
+source repository explicitly in `requirements.txt`.
+
 `coupons.json` is the synthetic catalog used by `couponFor`. Its campaign codes
 are generated fixtures, not real vouchers. Keeping actual catalog data also
 lets this repository pass the automatic linker's empty-repository filter.
