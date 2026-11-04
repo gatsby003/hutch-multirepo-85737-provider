@@ -12,3 +12,7 @@ division by 10,000, round down, then cap the discount at `maxDiscountMinor`.
 
 For a cart of 40,000 minor units the discount is 2,500 and the total is 37,500.
 Contract marker: HUTCH85737-COUPON-BPS-CAP.
+
+`coupons.json` is the synthetic catalog used by `couponFor`. Its campaign codes
+are generated fixtures, not real vouchers. Keeping actual catalog data also
+lets this repository pass the automatic linker's empty-repository filter.

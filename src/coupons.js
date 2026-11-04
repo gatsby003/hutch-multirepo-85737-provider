@@ -1,4 +1,5 @@
+import coupons from "../coupons.json" with { type: "json" };
+
 export function couponFor(code) {
-  if (code !== "WELCOME") return { discountBps: 0, maxDiscountMinor: 0 };
-  return { discountBps: 1250, maxDiscountMinor: 2500 };
+  return coupons[code] ?? { discountBps: 0, maxDiscountMinor: 0 };
 }

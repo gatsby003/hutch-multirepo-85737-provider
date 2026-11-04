@@ -1,0 +1,1206 @@
+{
+  "WELCOME": {
+    "discountBps": 1250,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-C569DE05BBA6F8144D8CE4AF": {
+    "discountBps": 100,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-91EA45B7B1F33741180C0A04": {
+    "discountBps": 125,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-BE6B16AE668D8B2AC7B7D53E": {
+    "discountBps": 150,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-834CC6DFE9D05F4AF98B6D38": {
+    "discountBps": 175,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-BF7E75D732863FDE67DE5A32": {
+    "discountBps": 200,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-CEC1997EF83489AF162D1EA7": {
+    "discountBps": 225,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-DBE647D41A8D053EB1FFC7FF": {
+    "discountBps": 250,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-94B0353A01AA846D8BE57887": {
+    "discountBps": 275,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-D64286C33176B7C1FC17DECC": {
+    "discountBps": 300,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-3CCB0AEC8D43298864E0CCEC": {
+    "discountBps": 325,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-AA738A5B9A6441CBD3EA8A9C": {
+    "discountBps": 350,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-DF888277AD1087AA6381B3D0": {
+    "discountBps": 375,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-50C5C7D49ECF62B33A5F2DA5": {
+    "discountBps": 400,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-4BF5B5E01D84146638C12003": {
+    "discountBps": 425,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-1EC6490B875FDE70C269BDE9": {
+    "discountBps": 450,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-D308BD5100B2E6BD17901230": {
+    "discountBps": 475,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-47EC75DC7F5630CE51984ABA": {
+    "discountBps": 500,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-FB54C1BEBA4FA1F1312814E1": {
+    "discountBps": 525,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-1454CAE3E04B3113391E52FE": {
+    "discountBps": 550,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-AFFB815EBC39A68896FD2642": {
+    "discountBps": 575,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-A22F53F4EDD0219C17D8ECF2": {
+    "discountBps": 600,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-E96F90DAEA796A3B680850B9": {
+    "discountBps": 625,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-029119E9074ADDB3BD54B326": {
+    "discountBps": 650,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-21E4D43BD12055906B47B280": {
+    "discountBps": 675,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-CA44D8EA886D7B0731FBF5E1": {
+    "discountBps": 700,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-CF66B121D6B70D09CFFA8A23": {
+    "discountBps": 725,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-3CF9F0057A7989128FE1BBC3": {
+    "discountBps": 750,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-6029008638F25CA369AB05C9": {
+    "discountBps": 775,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-8EF13CB960E836C209911BD1": {
+    "discountBps": 800,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-EA884E4FD0AF632B1ADEC405": {
+    "discountBps": 825,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-4EB9E68A9D263645344B1ED6": {
+    "discountBps": 850,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-8A6E3894025B4BA5FE8BB46D": {
+    "discountBps": 875,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-6067D29C5DFA90AD815EE7D2": {
+    "discountBps": 900,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-3A29F9574446620F1B3C5830": {
+    "discountBps": 925,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-2B5E11DA508F280E2B8E5E3F": {
+    "discountBps": 950,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-4BD8E02FB875C0C4CD04810D": {
+    "discountBps": 975,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-546347EBC2ED7732E3850463": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-21E378F57F81E3559E794F54": {
+    "discountBps": 100,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-862F8FD0E941793116B087ED": {
+    "discountBps": 125,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-030212C732ACE31303F37235": {
+    "discountBps": 150,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-22EC044A9B281B389CF7488F": {
+    "discountBps": 175,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-66C9A43BAABBD7A0039834ED": {
+    "discountBps": 200,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-052FCFB46D9B50A35EDFFD00": {
+    "discountBps": 225,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-8DC8E48EDEBE62618270139E": {
+    "discountBps": 250,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-BC0469D67D93D72E9D3A05A3": {
+    "discountBps": 275,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-E23C4B7FAD8CDE230CC747AC": {
+    "discountBps": 300,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-162BBB71230F2F0515C4518B": {
+    "discountBps": 325,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-024B7AB8FBB4131FD7998C6D": {
+    "discountBps": 350,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-B678C329BF191D6F18ED5513": {
+    "discountBps": 375,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-4AAC73B3345716EBE1B5BACE": {
+    "discountBps": 400,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-203B6AAD07E19DB5D3E57039": {
+    "discountBps": 425,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-D9D59CC664FB9597A3BFE0F9": {
+    "discountBps": 450,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-00A81F0AE4820989BF6BF4AF": {
+    "discountBps": 475,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-A849D57CC4A44593437327B9": {
+    "discountBps": 500,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-4CAAC80BF17514A0C77AFAF4": {
+    "discountBps": 525,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-FA24B3E65975401808E1A0DF": {
+    "discountBps": 550,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-3F296B2F532FF718C1A0325A": {
+    "discountBps": 575,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-3255DF03617F7FBDF7B5C82F": {
+    "discountBps": 600,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-9F66E463D89F42A97D16627D": {
+    "discountBps": 625,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-DF6DD6B3046E351D31706B86": {
+    "discountBps": 650,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-A977F96E89759931D8E9600D": {
+    "discountBps": 675,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-F967516A1DB5AB3CFA7E4081": {
+    "discountBps": 700,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-5246A0C8F0EFB0C25AD02587": {
+    "discountBps": 725,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-95E018D4E9CC7D6134445DBC": {
+    "discountBps": 750,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-14815D1F93BBBC6B02891363": {
+    "discountBps": 775,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-2BD3CDE7328A8930373604DE": {
+    "discountBps": 800,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-D105C0E203AD990429161D17": {
+    "discountBps": 825,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-12A0CB30329FC1DA4F0C86B5": {
+    "discountBps": 850,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-A079FD738AF41B9B0B519554": {
+    "discountBps": 875,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-FC9549FF97921BCD2851F39A": {
+    "discountBps": 900,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-F3CBADCF1EF5EF5E1BF238D9": {
+    "discountBps": 925,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-0CA9E9A110C4401D26345467": {
+    "discountBps": 950,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-BED89218C1F4AA402A89086D": {
+    "discountBps": 975,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-5219230FCEF09320A6702063": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-4662DF717CFA9268CFA45FDF": {
+    "discountBps": 100,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-D5D3C46CEAA5577809404271": {
+    "discountBps": 125,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-6CB782229AB4CBE6626F4D15": {
+    "discountBps": 150,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-5964C1EE95041D8F9A55180D": {
+    "discountBps": 175,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-14317BBAFE3A7C5F5525470A": {
+    "discountBps": 200,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-1A1CD4FEF5109A8B068D84B0": {
+    "discountBps": 225,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-B9BB2BB8AAE4910115AAF4B2": {
+    "discountBps": 250,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-ED21F20CBF2326D1655F2582": {
+    "discountBps": 275,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-C11F6A0E029164C4C685D2E2": {
+    "discountBps": 300,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-0EF10F826B8DD6B56D4606F5": {
+    "discountBps": 325,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-582C9180B171C1699C9ECC03": {
+    "discountBps": 350,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-633227B29B7FEF20EBF2B69C": {
+    "discountBps": 375,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-B2D8907916CA81F61B050A87": {
+    "discountBps": 400,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-DBF553CB2E98E8A1E378A522": {
+    "discountBps": 425,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-33DD6C90F75F233A6C8D90A2": {
+    "discountBps": 450,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-69F996ABA1A0E3115C14010E": {
+    "discountBps": 475,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-35ACF79B556EC768C40259BD": {
+    "discountBps": 500,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-B6C278EE5500DDD9B92D78D4": {
+    "discountBps": 525,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-4D4919A16633E8E116A21091": {
+    "discountBps": 550,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-EDC7203435790BFDBEA07825": {
+    "discountBps": 575,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-9AFBE3FD1D5F95B3A3CC7D81": {
+    "discountBps": 600,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-21AADA8501C35312336CE568": {
+    "discountBps": 625,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-C4302167ED0EE957A250A38E": {
+    "discountBps": 650,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-2520637B9785F956E5529254": {
+    "discountBps": 675,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-4E09DE0F3A94E533109FE0E8": {
+    "discountBps": 700,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-DE1AB2CF56F3AEB00F23D544": {
+    "discountBps": 725,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-57B8AEC4663C9B826091CBA9": {
+    "discountBps": 750,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-01749632795FA47C77483D7D": {
+    "discountBps": 775,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-E5C688166D947089936D4114": {
+    "discountBps": 800,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-8272C8DE16C69C5DAEF26F84": {
+    "discountBps": 825,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-AD1B72EE0242181BDECB35F2": {
+    "discountBps": 850,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-B1A8094E71A65EF5A2B9AB11": {
+    "discountBps": 875,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-4F51573695933ABA24694288": {
+    "discountBps": 900,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-A820ADF50041823A8CA6E772": {
+    "discountBps": 925,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-4EA313A649D340C29AF87271": {
+    "discountBps": 950,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-07638449D80BF41549FB834D": {
+    "discountBps": 975,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-468E441B94E5AB469350C6B8": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-673AEB32BEAC491A697CE000": {
+    "discountBps": 100,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-176DECB115CB7F18F070C23F": {
+    "discountBps": 125,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-BF593264D7FBF615964E5B35": {
+    "discountBps": 150,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-7BD2D10CC474727002155840": {
+    "discountBps": 175,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-D020FEBD82B306EE3EA2D664": {
+    "discountBps": 200,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-FF985578603ED21A77D91A91": {
+    "discountBps": 225,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-4E6FC9EF522F889348BCDA57": {
+    "discountBps": 250,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-D4CE1285C3336AD94ACD9828": {
+    "discountBps": 275,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-ABB29E8A9F1CE9EECA7C4C75": {
+    "discountBps": 300,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-8E9BDAE40ED7D92E9D015763": {
+    "discountBps": 325,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-BE526FBC3FF8AB6D46540620": {
+    "discountBps": 350,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-DD38C2918DD649E7E29E729B": {
+    "discountBps": 375,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-76E971D622AEB4B8502BA194": {
+    "discountBps": 400,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-C427A13F99C9B84983AE5174": {
+    "discountBps": 425,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-55402C580F91312304364ACE": {
+    "discountBps": 450,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-4D0C2522A115B7D31A5C16C5": {
+    "discountBps": 475,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-8FB768DB3A136200FE349026": {
+    "discountBps": 500,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-6CDDA91088A5DFC67AC0452F": {
+    "discountBps": 525,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-A521A7622B7FEB7117C15D74": {
+    "discountBps": 550,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-237DC1889B7F1E97ECDDE9AF": {
+    "discountBps": 575,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-65BE529F65B0278A16345715": {
+    "discountBps": 600,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-9BFDB65E987BEC2923AB8F8E": {
+    "discountBps": 625,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-D1764FEAB3E4537CD07F3979": {
+    "discountBps": 650,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-2B830FB0874D09BF210C7A70": {
+    "discountBps": 675,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-270ABFC6E57D1EBA7BE591C7": {
+    "discountBps": 700,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-23F1861EDAB9F06A52BE4DF6": {
+    "discountBps": 725,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-19E71467A9098D30174DEE5E": {
+    "discountBps": 750,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-CD8FC75258EB1A7F39846929": {
+    "discountBps": 775,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-1F49F2FBDE920F32CBDEC64E": {
+    "discountBps": 800,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-07244A309BD4D891AF6D33D4": {
+    "discountBps": 825,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-758B26939FC08E831680A877": {
+    "discountBps": 850,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-113CFD817006F74C2EA90D12": {
+    "discountBps": 875,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-0B477D92BD36C21FD7C43EED": {
+    "discountBps": 900,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-FBF5E7179E1C8D93EC219B52": {
+    "discountBps": 925,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-D4FC1322F4BF216983D9CA27": {
+    "discountBps": 950,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-400564712694700C8B770FAE": {
+    "discountBps": 975,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-6BD34377524712E4F69FDFAF": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-E04D2BB0F02726DF130E7427": {
+    "discountBps": 100,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-098D973A2463185F0E41B1C0": {
+    "discountBps": 125,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-CB8792E540BD9B3F1F5EDC99": {
+    "discountBps": 150,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-4F0C5D43B547F27021EC5429": {
+    "discountBps": 175,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-48CDF168FB43E632B8BD2014": {
+    "discountBps": 200,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-50C66DBE44D43B1A40E95567": {
+    "discountBps": 225,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-1F672BD55867B2536BAC97E0": {
+    "discountBps": 250,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-2CC97CC25CBDB75E1127FAA8": {
+    "discountBps": 275,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-5FEAD4167E65B0C53D1BD8CD": {
+    "discountBps": 300,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-472A4B43FB9D2D05C8521AC9": {
+    "discountBps": 325,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-85080AE2DB922B40476BE9E3": {
+    "discountBps": 350,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-ECAF457B0FFBE1E834411CAD": {
+    "discountBps": 375,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-301E441F2CEEBBBE422FCC07": {
+    "discountBps": 400,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-82308346BF0090F164286C5B": {
+    "discountBps": 425,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-206474C1364D24FA91B56BFB": {
+    "discountBps": 450,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-76BD73BBBFAFB9F9AC062D68": {
+    "discountBps": 475,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-735BBA01F93A3319D9DC30BB": {
+    "discountBps": 500,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-10BDAAD0482D7948EFF8F25D": {
+    "discountBps": 525,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-0D4B526D6853A53251EDABB8": {
+    "discountBps": 550,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-2DEB5F1A802EABB7210D95C5": {
+    "discountBps": 575,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-769DD8E7056211CD48F26705": {
+    "discountBps": 600,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-2BB2D27822DCDF474B01C462": {
+    "discountBps": 625,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-036F7F3DD2701F6F4BDB14B9": {
+    "discountBps": 650,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-F9ED70C2FCE8DB9C4DFDAA38": {
+    "discountBps": 675,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-B99ACD024DD294C4EB4B57D9": {
+    "discountBps": 700,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-86AA864C3FAEA14B5FAB1B7A": {
+    "discountBps": 725,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-8D93A34957070BD244C9C780": {
+    "discountBps": 750,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-852F9DCEF9EC605F3B138A68": {
+    "discountBps": 775,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-4A925212AE0415690312E928": {
+    "discountBps": 800,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-E7ED725C08957AE0C8E98745": {
+    "discountBps": 825,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-2CC450F6902BA3EBE883C1AE": {
+    "discountBps": 850,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-A19312CDE9A1B9FE0B4FB092": {
+    "discountBps": 875,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-1F52853DF51ED4F496FDA41B": {
+    "discountBps": 900,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-9177EBDC9A4E66F41EDCA754": {
+    "discountBps": 925,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-434BDD9C6E65D1C3FAC3256C": {
+    "discountBps": 950,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-B86921C9CF48AEA32BFA1213": {
+    "discountBps": 975,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-3105BEA1D3B3383C52A95E6D": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-91A77FB98C0A31E1A6FF43B0": {
+    "discountBps": 100,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-B1604E01015101068F6D9F4F": {
+    "discountBps": 125,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-A7C58A759B930BF9F6170D1B": {
+    "discountBps": 150,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-C46272969619F74A0553E1EB": {
+    "discountBps": 175,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-0C9FF18834C44AC0CC74EC87": {
+    "discountBps": 200,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-41C1CB087D9B44C3C0CB1B73": {
+    "discountBps": 225,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-C01930F4FCF4F095E0450496": {
+    "discountBps": 250,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-4201BEF725A1D84750856F7F": {
+    "discountBps": 275,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-E869F78F4AC5C6823DF657B5": {
+    "discountBps": 300,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-8AA6757362A460687D7B3B68": {
+    "discountBps": 325,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-FA57B303545F03B300FCA44A": {
+    "discountBps": 350,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-A06B6C8D9D0C63264E424B67": {
+    "discountBps": 375,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-E82780321E5CE0BE50ADE14A": {
+    "discountBps": 400,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-8A83143E7546CA0F0B986C60": {
+    "discountBps": 425,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-8E83DE7F3335253D37262103": {
+    "discountBps": 450,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-A311822C5FADDD44FB80B71B": {
+    "discountBps": 475,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-BD343D24464112CD1A74A540": {
+    "discountBps": 500,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-A1A6990B389A0D9C7370C7A1": {
+    "discountBps": 525,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-8F62B1A1E407BF52370BB824": {
+    "discountBps": 550,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-442E33006D35E36F6BFAB412": {
+    "discountBps": 575,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-D6B80E49C3A90AB0B9EC88A7": {
+    "discountBps": 600,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-EF55F5FB32E40D9D14537207": {
+    "discountBps": 625,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-C127D02EA9A0A4686AFB1E3C": {
+    "discountBps": 650,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-5133E54A6E1C6E23AD378BE7": {
+    "discountBps": 675,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-5B5A0B5083D8F78A69FF1384": {
+    "discountBps": 700,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-2B02C165DB3EF0CAB6172290": {
+    "discountBps": 725,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-C8D63C05EB9035EF8C3BC7A0": {
+    "discountBps": 750,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-AD0DEA0BB08F4273E3C46874": {
+    "discountBps": 775,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-BC270EF17D8CBDA06EDA4623": {
+    "discountBps": 800,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-91DD06DB1D212C82EDA864FA": {
+    "discountBps": 825,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-30CAA4EBDDE1BEE617D98561": {
+    "discountBps": 850,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-00893B1B67FDA090F4BC45AD": {
+    "discountBps": 875,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-65A1AC0B41538955B12C3F64": {
+    "discountBps": 900,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-131F5FCBF29AC2C4C1072419": {
+    "discountBps": 925,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-78EB2452D3B11CCA4F5E139D": {
+    "discountBps": 950,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-25FA1A3702F46C2A49D68127": {
+    "discountBps": 975,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-2336AFA97B9AD473CE48E717": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-671A165A6978B2B536C9F1AB": {
+    "discountBps": 100,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-EE84DAD9B82A2F89E4CFFE3E": {
+    "discountBps": 125,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-20A500D1EFBFA86CC6B4CD11": {
+    "discountBps": 150,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-50DD5269D8F87BA73105C0D0": {
+    "discountBps": 175,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-A0F9113B61580E3887D21459": {
+    "discountBps": 200,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-A49834E8C18A94DF922C6FFF": {
+    "discountBps": 225,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-EB33320F2BC47EAFD76F4F02": {
+    "discountBps": 250,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-98635CB1D4CE08321E95EE79": {
+    "discountBps": 275,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-D79E298F14EE8273022E6EFD": {
+    "discountBps": 300,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-D222191E6CEA546AECDE6247": {
+    "discountBps": 325,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-B114A52D4C44C03B91ED24F4": {
+    "discountBps": 350,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-4A17288D77A747F807879BC4": {
+    "discountBps": 375,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-34BA5B781534A6F92A1E36D0": {
+    "discountBps": 400,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-969A176F5996E770D57D6847": {
+    "discountBps": 425,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-F349E9FBBC756F58522FD19E": {
+    "discountBps": 450,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-161A0B840C041DB396AB363D": {
+    "discountBps": 475,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-1077E1705CACF79D442EBD86": {
+    "discountBps": 500,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-58505182FE9C0973BFA1E416": {
+    "discountBps": 525,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-ABC252EA8BC29A9DE0DB8D10": {
+    "discountBps": 550,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-0E8E1BFBC9B7C7CF5ACE3CC0": {
+    "discountBps": 575,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-D67160FB14DFCDB81D940DBD": {
+    "discountBps": 600,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-7839355EC62AC5B63DF16551": {
+    "discountBps": 625,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-4ADDFB0EEC5B432C2BBB50C5": {
+    "discountBps": 650,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-93E4BA2F255737A880EA0C15": {
+    "discountBps": 675,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-5A4CE1786CA9F8B227EDE119": {
+    "discountBps": 700,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-231C345DC46BFD531DEE8697": {
+    "discountBps": 725,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-2A2A0224AFB09626F68CFF5F": {
+    "discountBps": 750,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-98E253131D58E25488D3FCBC": {
+    "discountBps": 775,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-1F3B6B1FD4366C2D3C694C54": {
+    "discountBps": 800,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-646AD0D591894F19AB1E2301": {
+    "discountBps": 825,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-EBE6895C28463A392929B810": {
+    "discountBps": 850,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-723479362BC72CA256C91F4D": {
+    "discountBps": 875,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-F66E90708473300A5E3A9F4C": {
+    "discountBps": 900,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-7D4DE5F52A5A66A1C9C72F51": {
+    "discountBps": 925,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-0E645F40B75F9FFE42119B04": {
+    "discountBps": 950,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-BBE5E6B4DC73A79FEA0611D0": {
+    "discountBps": 975,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-FAD203CEB2FC868C047BD0DF": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 2000
+  },
+  "SYNTH-5ABE64D1A5EF01EA359D0CA5": {
+    "discountBps": 100,
+    "maxDiscountMinor": 2125
+  },
+  "SYNTH-172A7A79BF62F3F7FFAF8FE9": {
+    "discountBps": 125,
+    "maxDiscountMinor": 2250
+  },
+  "SYNTH-9841E97FBB92B548F32B43E4": {
+    "discountBps": 150,
+    "maxDiscountMinor": 2375
+  },
+  "SYNTH-709BBFC763E4C12301B10271": {
+    "discountBps": 175,
+    "maxDiscountMinor": 2500
+  },
+  "SYNTH-5CB1973B73C1FD63BBA25CFF": {
+    "discountBps": 200,
+    "maxDiscountMinor": 2625
+  },
+  "SYNTH-AF21A50E700E6D32CA389173": {
+    "discountBps": 225,
+    "maxDiscountMinor": 2750
+  },
+  "SYNTH-DFF9D1111CE855F0E4ED3B1B": {
+    "discountBps": 250,
+    "maxDiscountMinor": 2875
+  },
+  "SYNTH-7269167A4A6D3F764748E125": {
+    "discountBps": 275,
+    "maxDiscountMinor": 3000
+  },
+  "SYNTH-90237A797A8A67DDEB428056": {
+    "discountBps": 300,
+    "maxDiscountMinor": 3125
+  },
+  "SYNTH-DE4B7B1F47874461833FB133": {
+    "discountBps": 325,
+    "maxDiscountMinor": 3250
+  },
+  "SYNTH-E4BD5A8391AC2F1F146A183E": {
+    "discountBps": 350,
+    "maxDiscountMinor": 3375
+  },
+  "SYNTH-48C2B910BA74D07B883A339F": {
+    "discountBps": 375,
+    "maxDiscountMinor": 3500
+  },
+  "SYNTH-961359D54FA18D1EE6371B3B": {
+    "discountBps": 400,
+    "maxDiscountMinor": 3625
+  },
+  "SYNTH-553D8D782B107443BC7AD7E7": {
+    "discountBps": 425,
+    "maxDiscountMinor": 3750
+  },
+  "SYNTH-CC1DEC18DE1CAAB753531BA5": {
+    "discountBps": 450,
+    "maxDiscountMinor": 3875
+  },
+  "SYNTH-06697309358A16FFBDC7DB1C": {
+    "discountBps": 475,
+    "maxDiscountMinor": 4000
+  },
+  "SYNTH-2E76813D13722E7874254FAF": {
+    "discountBps": 500,
+    "maxDiscountMinor": 4125
+  },
+  "SYNTH-61155B807922CA7F6FB4286B": {
+    "discountBps": 525,
+    "maxDiscountMinor": 4250
+  },
+  "SYNTH-9FF648FF6E7D084C59CA7975": {
+    "discountBps": 550,
+    "maxDiscountMinor": 4375
+  },
+  "SYNTH-E1B2ACB3BBAF05960A885511": {
+    "discountBps": 575,
+    "maxDiscountMinor": 4500
+  },
+  "SYNTH-8BBE13727F31B1358C55D026": {
+    "discountBps": 600,
+    "maxDiscountMinor": 4625
+  },
+  "SYNTH-044F308689DAC5CCBBF88228": {
+    "discountBps": 625,
+    "maxDiscountMinor": 4750
+  },
+  "SYNTH-B179686570AF5E5B32F6F6F5": {
+    "discountBps": 650,
+    "maxDiscountMinor": 4875
+  },
+  "SYNTH-B9D763F0E1C281079049DDD9": {
+    "discountBps": 675,
+    "maxDiscountMinor": 5000
+  },
+  "SYNTH-FC42B2EF7A1CD64FFF606962": {
+    "discountBps": 700,
+    "maxDiscountMinor": 5125
+  },
+  "SYNTH-F55D1656C11F77C9244A5318": {
+    "discountBps": 725,
+    "maxDiscountMinor": 5250
+  },
+  "SYNTH-245152448E983AB5BF985F17": {
+    "discountBps": 750,
+    "maxDiscountMinor": 5375
+  },
+  "SYNTH-EBE28D7E07389CDAEF4B92FD": {
+    "discountBps": 775,
+    "maxDiscountMinor": 5500
+  },
+  "SYNTH-63BCDA74D2EE392FA7FC899B": {
+    "discountBps": 800,
+    "maxDiscountMinor": 500
+  },
+  "SYNTH-105A99F6DAED5A19FCB9C470": {
+    "discountBps": 825,
+    "maxDiscountMinor": 625
+  },
+  "SYNTH-BDC302F4E4DE2FB53091327B": {
+    "discountBps": 850,
+    "maxDiscountMinor": 750
+  },
+  "SYNTH-6E26ED6A56B4243E42B882C6": {
+    "discountBps": 875,
+    "maxDiscountMinor": 875
+  },
+  "SYNTH-FE6B9624604EADE467D0B7D9": {
+    "discountBps": 900,
+    "maxDiscountMinor": 1000
+  },
+  "SYNTH-DC809434AD1E1488252C447A": {
+    "discountBps": 925,
+    "maxDiscountMinor": 1125
+  },
+  "SYNTH-13C35FAA2F6BECB5D5E31A55": {
+    "discountBps": 950,
+    "maxDiscountMinor": 1250
+  },
+  "SYNTH-C75D9348D4B5FAFF3C5DE9A0": {
+    "discountBps": 975,
+    "maxDiscountMinor": 1375
+  },
+  "SYNTH-69B849EC45F1928D99942D5B": {
+    "discountBps": 1000,
+    "maxDiscountMinor": 1500
+  },
+  "SYNTH-B2F8F7B2CD7CB2AC37C26D48": {
+    "discountBps": 100,
+    "maxDiscountMinor": 1625
+  },
+  "SYNTH-0CE7A21EE7540EBA59A42806": {
+    "discountBps": 125,
+    "maxDiscountMinor": 1750
+  },
+  "SYNTH-6E475509AD3EB121F05D1FD1": {
+    "discountBps": 150,
+    "maxDiscountMinor": 1875
+  },
+  "SYNTH-E73B28B1C6080F25A10790F6": {
+    "discountBps": 175,
+    "maxDiscountMinor": 2000
+  }
+}
